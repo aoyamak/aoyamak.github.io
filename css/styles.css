@@ -6,6 +6,11 @@ a {
   text-decoration: none;
 }
 
+p {
+  font-family: 'Montserrat';
+  font-weight: 300;
+}
+
 .navigation .container {
   padding-top:25px;
 }
