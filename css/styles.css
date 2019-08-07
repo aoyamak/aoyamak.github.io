@@ -1,14 +1,9 @@
 * {
-  font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
+  font-family: 'Helvetica Neue', sans-serif;
 }
 
 a {
   text-decoration: none;
-}
-
-p {
-  font-family: 'Montserrat';
-  font-weight: 300;
 }
 
 .navigation .container {
